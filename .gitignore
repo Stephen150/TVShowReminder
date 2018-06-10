@@ -1,0 +1,9 @@
+.vscode
+
+htmlcov
+.coverage*
+
+__pycache__
+
+config.json
+shows.json
